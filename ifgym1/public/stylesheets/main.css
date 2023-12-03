@@ -1,0 +1,13 @@
+.containerForm {
+    max-width: 500px;
+    border: 0.5px solid rgba(0, 0, 0, 0.336);
+    padding: 25px;
+    border-radius: 15px;
+    position: relative;
+    left: 30%;
+    transform: translateX(-50%);
+}
+
+.red {
+    color: red;
+}
